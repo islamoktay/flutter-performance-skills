@@ -2,7 +2,7 @@
 
 Two reusable **agent skills** that teach AI coding assistants (Claude Code, GitHub Copilot, and others that support the skills format) to write and review Flutter code following proven performance rules.
 
-They were born out of a full performance pass on a large production Flutter app. The background and all the rules are explained in the companion article: [Making a Large Flutter App Fast: The Changes That Actually Mattered](#) <!-- TODO: replace with the Medium link once published -->
+They were born out of a full performance pass on a large production Flutter app. The background and all the rules are explained in the companion article: [Making a Large Flutter App Fast: The Changes That Actually Mattered](#https://islamoktay.medium.com/making-a-large-flutter-app-fast-the-changes-that-actually-mattered-a0f615b6df18?postPublishedType=initial)
 
 ## What's inside
 
